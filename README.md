@@ -1,12 +1,24 @@
 # React + Vite
+Demo E-commerce Project
+------------------------
+A modern, fully responsive e-commerce web application designed to provide a seamless online shopping experience. This project focuses on a clean UI, intuitive navigation, and a robust frontend structure for product management.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Installation & Setup**
+Clone the repository:
+Bash
+1)git clone https://github.com/preethikasuburamani/Demo-E-commerce.git
+Navigate to the project folder:
+Bash
+2)cd Demo-E-commerce
+3)Open index.html in your preferred browser.
 
-Currently, two official plugins are available:
+**About**
+-->Dynamic Product Display: A visually appealing grid layout showcasing products with high-quality imagery and pricing.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-->Shopping Cart Functionality: Users can add items to their cart, view their selection, and manage quantities.
 
-## Expanding the ESLint configuration
+-->Responsive Design: Optimized for all devices—from desktop monitors to mobile screens—using CSS Flexbox and Grid.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+-->Category Filtering: Easily browse products by category to find exactly what you're looking for.
+
+-->Interactive UI: Smooth hover effects, transitions, and clear Call-to-Action (CTA) buttons to enhance user engagement.
